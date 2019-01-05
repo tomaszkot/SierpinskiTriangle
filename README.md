@@ -1,6 +1,6 @@
 # SierpinskiTriangle
 
-Implementation of Sierpinski triangle in form of so called 'Chaos game'.
+Implementation of [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle) in form of so called 'Chaos game'.
 There are two version provided:
 
 1. C# - Windows Forms implementation. Triangle is formed dynamically as button is pressed.
